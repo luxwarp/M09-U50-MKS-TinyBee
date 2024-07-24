@@ -1,3 +1,4 @@
 [submodule "Marlin"]
 	path = Marlin
 	url = https://github.com/luxwarp/Marlin.git
+	branch = 2.1.x-m09-tinybee
